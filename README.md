@@ -5,6 +5,7 @@
 
 
 <h3 align="left">Benimle bağlantı kur:</h3>
+<h4 align="left">✉️ budotekno@gmail.com</h4>
 <p align="left">
 
 <a href="https://linktr.ee/budotekno" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/link--v1.png" alt="bugradostt" height="30" width="40" /></a>
