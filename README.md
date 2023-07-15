@@ -1,3 +1,7 @@
+![MasterHead](https://d1fdloi71mui9q.cloudfront.net/bTxSDXiYTtmM1CEcuQCX_VCRcp4C13oW5okmx)
+
+
+
 <h1 align="center">Merhaba 👋, Ben Buğra</h1>
 <h3 align="center">Full Stack Developer 💻</h3>
 <h3 align="center">İşbirlikleri & freelance işler için lütfen mail atınız.</h3>
@@ -8,9 +12,9 @@
 <h4 align="left">✉️ budotekno@gmail.com</h4>
 <p align="left">
 
-<a href="https://linktr.ee/budotekno" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/link--v1.png" alt="bugradostt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bugradostt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugradostt" height="30" width="40" /></a>
-<a href="https://instagram.com/budotekno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budotekno" height="30" width="40" /></a>
+<a href="https://linktr.ee/budotekno" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/link--v1.png" alt="bugradostt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bugradostt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugradostt" height="30" width="40" /></a>
+<a href="https://instagram.com/budotekno" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budotekno" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@budotekno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="budotekno" height="30" width="40" /></a>
 </p>
 
