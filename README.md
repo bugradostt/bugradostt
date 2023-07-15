@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-<h3 align="center">Full Stack Developer 💻 -İşbirlikleri & freelance işler için lütfen mail atınız.</h3>
+<h3 align="center">Full Stack Developer 💻</h3>
+<h3>İşbirlikleri & freelance işler için lütfen mail atınız.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugradostt&label=Profile%20views&color=0e75b6&style=flat" alt="bugradostt" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugradostt" alt="bugradostt" /></a> </p>
 
