@@ -1,5 +1,7 @@
-![MasterHead](https://d1fdloi71mui9q.cloudfront.net/bTxSDXiYTtmM1CEcuQCX_VCRcp4C13oW5okmx)
 
+<p align="center">
+  <img align="center" src="https://i.hizliresim.com/bvp2qr9.png" alt="bugradostt" />
+</p>
 
 
 <h1 align="center">Merhaba 👋, Ben Buğra</h1>
