@@ -3,8 +3,12 @@
   <img align="center" src="https://i.hizliresim.com/bvp2qr9.png" alt="bugradostt" />
 </p>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba%20%F0%9F%91%8B,%20Ben%20Bu%C4%9Fra+;Budotekno;+Full%20Stack%20Developer%20%F0%9F%92%BB;&center=true&size=30">
+</div>
 
-<h1 align="center">Merhaba 👋, Ben Buğra</h1>
+<hr/>
+
 <h3 align="center">Full Stack Developer 💻</h3>
 <h3 align="center">İşbirlikleri & freelance işler için lütfen mail atınız.</h3>
 
@@ -26,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugradostt&" alt="bugradostt" /></p>
 
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Budotekno;+Full%20Stack%20Developer%20%F0%9F%92%BB;&end=true&size=30">
 
