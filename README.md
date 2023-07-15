@@ -30,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugradostt&" alt="bugradostt" /></p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Budotekno;+Full%20Stack%20Developer%20%F0%9F%92%BB;&end=true&size=30">
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
