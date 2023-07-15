@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-<h3 align="center">A passionate fronFull Stack Developer 💻 -İşbirlikleri & freelance işler için lütfen mail atınız.tend developer from India</h3>
+<h3 align="center">Full Stack Developer 💻 -İşbirlikleri & freelance işler için lütfen mail atınız.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugradostt&label=Profile%20views&color=0e75b6&style=flat" alt="bugradostt" /> </p>
 
@@ -9,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bugradostt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugradostt" height="30" width="40" /></a>
 <a href="https://instagram.com/budotekno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="budotekno" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/budotekno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="budotekno" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@budotekno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="budotekno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
