@@ -5,10 +5,6 @@
 
 <hr/>
 
-<h3 align="center">Full Stack Developer 💻</h3>
-
-<h3 align="left">Benimle bağlantı kur:</h3>
-<h4 align="left">✉️ bugradostt@gmail.com</h4>
 <p align="left">
 
 <a href="https://linktr.ee/budotekno" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/link--v1.png" alt="bugradostt" height="30" width="40" /></a>
