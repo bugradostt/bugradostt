@@ -3,7 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba%20%F0%9F%91%8B,%20Ben%20Bu%C4%9Fra;+Full%20Stack%20Developer%20%F0%9F%92%BB;&center=true&size=30">
 </div>
 
-📩 bugradostt@gmail.com
+<div align="center">
+  <h4>
+      📩 bugradostt@gmail.com
+  </h4>
+</div>
+
+
 
 
 <hr/>
