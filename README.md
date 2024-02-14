@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <h4>
+  <h2>
       📩 bugradostt@gmail.com
-  </h4>
+  </h2>
 </div>
 
 
