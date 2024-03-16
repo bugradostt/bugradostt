@@ -16,7 +16,7 @@
 
 <!-- C# Start -->
  <a href="#">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" alt="csharp" width="40" height="40"/> 
  </a> 
 <!-- C# End -->
 
