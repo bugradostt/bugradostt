@@ -118,7 +118,7 @@
 
 <!-- Web Api Start -->
 <a href="#">
-  <img src="https://w7.pngwing.com/pngs/500/498/png-transparent-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-computer-programming-thumbnail.png" alt="web api" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.freepik.com/512/627/627558.png" alt="web api" width="40" height="40"/> 
 </a>
 <!-- Web Api End -->
 
