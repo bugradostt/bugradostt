@@ -14,68 +14,97 @@
 
 ## Programlama Dilleri : 
 
- <!-- C# Start -->
+<!-- C# Start -->
  <a href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
- </a>
- 
-  <!-- C# End -->
+ </a> 
+<!-- C# End -->
 
-   <!-- Js Start --> 
-   <a href="#">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   </a>
+<!-- Js Start --> 
+<a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<!-- Js End --> 
 
-  <!-- Js End --> 
-
-  <!-- Ts Start -->
+<!-- Ts Start -->
+<a href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <!-- Ts End -->
+  </a>
+<!-- Ts End -->
 
 
-  ## Veri Tabanı Teknolojileri :
+## Veri Tabanı Teknolojileri :
 
-  <!-- Mssql Start -->
+<!-- Mssql Start -->
+<a href="#">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  <!-- Mssql End -->
-  
-  <!-- Postgresql Start -->
+</a>
+<!-- Mssql End -->
+
+
+<!-- Postgresql Start -->
+<a href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <!-- Postgresql End -->
+</a>
+<!-- Postgresql End -->
 
-  ## Teknolojiler ve Uygulama Çatıları : 
+## Teknolojiler ve Uygulama Çatıları : 
 
-  <!-- Html Start -->
+<!-- Html Start -->
+<a href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <!-- Html End -->
-  
-   <!-- Css Start -->
+</a>
+<!-- Html End -->
+
+<!-- Css Start -->
+<a href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <!-- Css End -->
+</a>
+<!-- Css End -->
 
-  
-  <!-- Angular Start -->
+<!-- Angular Start -->
+<a href="#">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  <!-- Angular End -->
+</a>
+<!-- Angular End -->
 
+<!-- Vue Start -->
+<a href="#">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vue" width="40" height="40"/> 
+</a>
+<!-- Vue End -->
 
-  <!-- .Net Start -->
+<!-- Quasar Start -->
+<a href="#">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" alt="quasar" width="40" height="40"/> 
+</a>
+<!-- Quasar End -->
+
+<!-- .Net Start -->
+<a href="#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  <!-- .Net End -->
+</a>
+<!-- .Net End -->
 
 ## Araçlar :
 
-
-  <!-- Git Start -->
+<!-- Git Start -->
+<a href="#">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <!-- Git End -->
+</a>
+<!-- Git End -->
 
-  <!-- Vs Code Start -->
-  <img alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <!-- Vs Code End -->
+<!-- Vs Code Start -->
+<a href="#">
+  <img width="40" height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="visual studio code" />
+</a>
+<!-- Vs Code End -->
+
 
 <!-- Visual Studio Start  -->
-<img alt="Visual Studio" width="40" height="40" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/Visual_Studio_Icon_2022.png" />
+<a href="#">
+  <img width="40" height="40" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/Visual_Studio_Icon_2022.png" alt="visual studio" />
+</a>
 <!-- Visual Studio End  -->
 
   
